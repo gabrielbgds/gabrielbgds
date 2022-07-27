@@ -12,5 +12,5 @@ href="mailto:gabrielbgds@gmail.com"><img src="https://img.shields.io/badge/Gmail
 ##
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielbgds&show_icons=true&count_private=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbgds&exclude_repo=repo1,repo2&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/gabrielbgds/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbgds&exclude_repo=repo1,repo2&langs_count=8&theme=tokyonight)](https://github.com/gabrielbgds/github-readme-stats)
 ##
